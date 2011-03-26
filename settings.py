@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'ohvo^(+hs$b#1nqk(jju7$*3!w54*rr(f7a&r5a-^k4d(*f62w'
+SECRET_KEY = 'Bridget secret key'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
